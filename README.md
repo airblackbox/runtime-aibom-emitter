@@ -1,5 +1,10 @@
 # Runtime AIBOM Emitter
 
+[![CI](https://github.com/airblackbox/runtime-aibom-emitter/actions/workflows/ci.yml/badge.svg)](https://github.com/airblackbox/runtime-aibom-emitter/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/airblackbox/runtime-aibom-emitter/blob/main/LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+
+
 Generates AIBOM entries in real-time by observing live agent runs. Connects to Episode Store and Gateway to discover what models, tools, and data sources an agent actually uses during execution.
 
 ## Features
